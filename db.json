@@ -1,0 +1,101 @@
+{
+    "drinks":[
+        {
+            "id":1,
+            "nama":"Ice Blend",
+            "logo_url":"https://i2.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/ice-blend-coffee-bean.jpg",
+            "deskripsi":"Minuman yang terbuat dari es yang dihancurkan dan dicampur dengan kopi atau sirup beraroma."
+        },
+        {
+            "id":2,
+            "nama":"Ice Drink",
+            "logo_url":"https://i1.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/ice-drink-4.jpg",
+            "deskripsi":"Minuman campuran teh, kopi atau sirup yang disajikan dengan es. Dahaga pun hiang!"
+        },
+        {
+            "id":3,
+            "nama":"Milk Shake",
+            "logo_url":"https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/milkshake-4.jpg",
+            "deskripsi":"Minuman yang dicampur dengan bubuk perasa atau sirup lalu dibuat dengan cara dikocok (shake)/ diblend."
+        },
+        {
+            "id":4,
+            "nama":"Milk Tea",
+            "logo_url":"https://i1.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/milktea-3.jpg",
+            "deskripsi":"Minuman campuran teh dan susu, biasanya ditambahkan dengan topping Boba. "
+        },
+        {
+            "id":5,
+            "nama":"Fruit Tea",
+            "logo_url":"https://i1.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/fruit-tea-2.jpg",
+            "deskripsi":"Minuman campuran teh dan sirup atau konsentrat jus buah."
+        },
+        {
+            "id":6,
+            "nama":"Flavoured Tea",
+            "logo_url":"https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/hot-tea1.jpg",
+            "deskripsi":"Minuman teh yang diberi ekstrak aroma tertentu."
+        },
+        {
+            "id":7,
+            "nama":"Hot Tea",
+            "logo_url":"https://i2.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/hot-tea-e1416083615723.jpg",
+            "deskripsi":"Minuman teh dari berbagai daun teh yang disajikan panas."
+        },
+        {
+            "id":8,
+            "nama":"Fruit Juice",
+            "logo_url":"https://i1.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/img_2261.jpg",
+            "deskripsi":"Minuman yang dibuat dari buah yang diblender.Wah segerrr."
+        },
+        {
+            "id":9,
+            "nama":"Smoothie",
+            "logo_url":"https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/smoothie.jpg",
+            "deskripsi":"Minuman yang dibuat dari campuran buah dan susu atau yoghurt yang diblend sampai halus."
+        },
+        {
+            "id":10,
+            "nama":"Flavoured Soda",
+            "logo_url":"https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/511627718.jpg",
+            "deskripsi":"Minuman campuran soda dengan sirup atau konsentrat jus buah."
+        },
+        {
+            "id":11,
+            "nama":"Latte",
+            "logo_url":"https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/latte-art.jpg",
+            "deskripsi":"Minuman campuran kopi dan steamed milk sehingga kopi tampak memiliki buih dibagian atasnya."
+        },
+        {
+            "id":12,
+            "nama":"Machiatto",
+            "logo_url":"https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/starbucks-iced-hazelnut-macchiato.jpg",
+            "deskripsi":"Minuman campuran kopi espresso dengan susu."
+        },
+        {
+            "id":12,
+            "nama":"Machiatto",
+            "logo_url":"https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/starbucks-iced-hazelnut-macchiato.jpg",
+            "deskripsi":"Minuman campuran kopi espresso yang lebih pekat dengan tambahan susu."
+        },
+        {
+            "id":13,
+            "nama":"Hot Chocolate",
+            "logo_url":"https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/hot-chocolate-e1416083854420.jpg",
+            "deskripsi":"Minuman cokelat lelehan atau cocoa powder yang dipadukan dengan susu atau gula dan disajikan saat panas."
+        },
+        {
+            "id":14,
+            "nama":"Fruit Yogurt",
+            "logo_url":"https://i2.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/yogurt-3.jpg",
+            "deskripsi":"Minuman campuran buah dan yogurt yang digemari para pejuang diet. Semangat!"
+        },
+        {
+            "id":15,
+            "nama":"Mocktail",
+            "logo_url":"https://i2.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/mocktails2.jpg",
+            "deskripsi":"Minuman campuran konsentrat jus buah yang dilengkapi dengan daun mint sebagai penyegar. Non-alkohol kok gaes."
+        }
+    ]
+}
+            
